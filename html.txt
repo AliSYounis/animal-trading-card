@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+  <meta charset="utf-8">
+  <title>Building the Prototype</title>
+</head>
+
+<body>
+  <div id="container">
+    <h1>Clown</h1>
+    <img src="clown.jpg" alt="clown">
+    <div id="card"class="animal-info">
+      <p id="interesting-fact">This is The same animal</p>
+      <ul id="facts">
+        <li>
+          <span>Scientific Name</span>: Amphipr
+        </li>
+        <li>
+          <span>Average Length</span>: 11 centimeters
+        </li>
+        <li>
+          <span>Average Lifespan</span>: 7 years
+        </li>
+        <li>
+          <span>Habitat</span>: Tropical coral reefs
+        </li>
+      </ul>
+      <p id="summary">my favorate one 
+      </p>
+    </div>
+  </div>
+</body>
+
+</html>

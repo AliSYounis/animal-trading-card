@@ -1,0 +1,64 @@
+img { width: 350px; 
+  height: 250px;
+  position: center; 
+  display: block;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  border-radius: 10px;}
+  
+  div#container { border-style: outset; 
+  box-shadow: 5px 5px 50px;
+  text-align: left;
+  margin-left: 25px;
+  margin-right: 25px;
+  padding: 10px;
+  border: solid;
+  border-radius: 5px;
+  border-width: 1px; 
+  }
+
+  
+   div.animal-info#card { padding: 10px;
+  border: solid;
+  border-width: 1px; 
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 25px;
+  }
+  
+   li span {font-weight: bold;}
+li{display: list-item;
+    text-align: -webkit-match-parent;}
+  
+   ul#facts { list-style: none;
+     text-align: left;
+     margin-left: -20px;
+     padding: 0px;
+   }
+  body { width: 400px;
+   float: right; }
+  
+  p#interesting-fact {font-style: italic;}
+  
+  
+  
+  
+  
+  h1 { 
+     font-size: 30px;
+     margin-left: 25px;
+     text-align: left;
+     font-style: oblique;
+  }
+  
+ 
+  p#summary{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+  
+  
